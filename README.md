@@ -19,6 +19,10 @@
 - dirb
 - nmap
 
+## Locations
+
+- [Shade Map](https://shademap.app/): The source of shade data for the planet. View shadows cast across a map of the Earth in real-time. See how shadows fall in specific locations, at specific dates/times.
+
 ## Services
 - [spyse](https://spyse.com/) - all in one recon service. scans the entire internet using OSINT and collects all the data in its own DB for instant access. Scanned info: ipv4 host, AS, DNS, sub/domains, whois/site info, ports/banners/protocols etc... 
 - [Namechk.sh](https://github.com/HA71/Namechk): Osint tool based on namechk.com for checking usernames on more than 100 websites, forums and social networks.
