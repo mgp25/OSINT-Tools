@@ -10,6 +10,24 @@
 ### Google
 
 - [Ghunt](https://github.com/mxrch/GHunt): GHunt is an OSINT tool to extract information from any Google Account using an email.
+- [Epieos Gmail](https://tools.epieos.com/email.php): Get similar results as Ghunt but online! 
+
+Once you have a Google ID you can use any of the following URLs to get more information about the account:
+
+- Google Maps: https://www.google.com/maps/contrib/<ID>
+- Google Photos: https://get.google.com/albumarchive/<ID>
+
+### Youtube
+
+Get info about a Youtube account:
+
+https://www.youtube.com/feeds/videos.xml?user=<username>
+
+### Twitter
+
+Check if an email is already registered in Twitter:
+
+https://api.twitter.com/i/users/email_available.json?email=<email>
 
 ### Other
 
@@ -28,6 +46,7 @@
 - [Namechk.sh](https://github.com/HA71/Namechk): Osint tool based on namechk.com for checking usernames on more than 100 websites, forums and social networks.
 - [shodan](https://shodan.io): Shodan is a search engine for Internet-connected devices.
 - [phonebook.cz](https://phonebook.cz/): Get emails by domain search.
+- [Spytox](https://www.spytox.com/email-search): Email search
 
 ## Lists and documentation
 - [awesome-osint](https://github.com/jivoi/awesome-osint): A curated list of amazingly awesome OSINT.
