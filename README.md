@@ -48,6 +48,25 @@ Check if an email is already registered in Twitter:
 - [phonebook.cz](https://phonebook.cz/): Get emails by domain search.
 - [Spytox](https://www.spytox.com/email-search): Email search
 
+## Search engines
+
+- [shodan.io](https://shodan.io)
+- [wigle.net](https://wigle.net)
+- [grep.app](https://grep.app)
+- [app.binaryedge.io](https://app.binaryedge.io)
+- [onyphe.io](https://onyphe.io)
+- [viz.greynoise.io](https://viz.greynoise.io)
+- [censys.io](https://censys.io)
+- [hunter.io](https://hunter.io)
+- [fofa.so](https://fofa.so)
+- [zoomeye.org](https://zoomeye.org)
+- [leakix.net](https://leakix.net)
+- [intelx.io](https://intelx.io)
+- [app.netlas.io](https://app.netlas.io)
+- [searchcode.com](https://searchcode.com)
+- [urlscan.io](https://urlscan.io)
+- [publicwww.com](https://publicwww.com)
+
 ## Lists and documentation
 - [awesome-osint](https://github.com/jivoi/awesome-osint): A curated list of amazingly awesome OSINT.
 - [IntellTechniques](https://inteltechniques.com/menu.html): IntelTechniques Search Tool
