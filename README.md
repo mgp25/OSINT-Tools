@@ -29,6 +29,12 @@ Check if an email is already registered in Twitter:
 
 `https://api.twitter.com/i/users/email_available.json?email=<email>`
 
+### Protonmail
+
+`https://api.protonmail.ch/pks/lookup?op=index&search=<email>`
+
+- [ProtOsint](https://github.com/pixelbubble/ProtOSINT)
+
 ### Other
 
 - [DataSploit](https://github.com/DataSploit/datasploit): An OSINT Framework to perform various recon techniques on Companies, People, Phone Number, Bitcoin Addresses, etc., aggregate all the raw data, and give data in multiple formats.
