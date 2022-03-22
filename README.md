@@ -1,4 +1,5 @@
 # OSINT Tools
+[![sponsor](https://img.shields.io/badge/-Become%20a%20sponsor%20❤-ff6964)](https://github.com/sponsors/mgp25)
 
 ## Tools
 
