@@ -94,6 +94,7 @@ Check if an email is already registered in Twitter:
 - [searchcode.com](https://searchcode.com)
 - [urlscan.io](https://urlscan.io)
 - [publicwww.com](https://publicwww.com)
+- [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools)
 
 ### Other
 
