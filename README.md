@@ -68,6 +68,8 @@ Check if an email is already registered in Twitter:
 
 ## Geolocalization
 
+- [Flock Locations](https://flocklocations.com): a public map of Flock Safety and ALPR camera locations. [Methodology](https://flocklocations.com/methodology).
+
 - [Shade Map](https://shademap.app/): The source of shade data for the planet. View shadows cast across a map of the Earth in real-time. See how shadows fall in specific locations, at specific dates/times.
 
 ## Search engines services
